@@ -1,5 +1,5 @@
 {
-    "name": "Runtime",
+    "name": "Runtime.ScriptableObjectEvent",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
