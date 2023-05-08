@@ -9,6 +9,7 @@ namespace ScriptableObjects.Data
 
         public void InvokeEventType(Type data)
         {
+            SetTypeData(data);
             OnTypeEvent?.Invoke(data);
         }
     }
