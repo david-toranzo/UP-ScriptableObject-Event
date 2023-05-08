@@ -1,7 +1,9 @@
 {
     "name": "Runtime.ScriptableObjectEvent",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:9ba9b6dece0189c4fbbe5495c67f7a62"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
